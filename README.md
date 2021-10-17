@@ -1,0 +1,6 @@
+# ropsten-faucet
+Chrome Addon to get Ropsten tokens every 24 hours...
+
+# Before use...
+Please know this was made sort of as a joke and utility. As a Crypto Dev, I use Ropsten and waiting 24hours and getting greylisted was not fun
+So, fixed that issue for me. 
